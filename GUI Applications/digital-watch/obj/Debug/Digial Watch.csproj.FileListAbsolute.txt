@@ -1,0 +1,31 @@
+c:\users\runtime\documents\visual studio 2015\Projects\Digial Watch\Digial Watch\bin\Debug\Digial Watch.exe.config
+c:\users\runtime\documents\visual studio 2015\Projects\Digial Watch\Digial Watch\bin\Debug\Digial Watch.exe
+c:\users\runtime\documents\visual studio 2015\Projects\Digial Watch\Digial Watch\bin\Debug\Digial Watch.pdb
+c:\users\runtime\documents\visual studio 2015\Projects\Digial Watch\Digial Watch\obj\Debug\Digial Watch.csprojResolveAssemblyReference.cache
+c:\users\runtime\documents\visual studio 2015\Projects\Digial Watch\Digial Watch\obj\Debug\Digial_Watch.Form1.resources
+c:\users\runtime\documents\visual studio 2015\Projects\Digial Watch\Digial Watch\obj\Debug\Digial_Watch.Properties.Resources.resources
+c:\users\runtime\documents\visual studio 2015\Projects\Digial Watch\Digial Watch\obj\Debug\Digial Watch.csproj.GenerateResource.Cache
+c:\users\runtime\documents\visual studio 2015\Projects\Digial Watch\Digial Watch\obj\Debug\Digial Watch.exe
+c:\users\runtime\documents\visual studio 2015\Projects\Digial Watch\Digial Watch\obj\Debug\Digial Watch.pdb
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\02- Digital Watch\Digial Watch\bin\Debug\Digial Watch.exe.config
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\02- Digital Watch\Digial Watch\bin\Debug\Digial Watch.exe
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\02- Digital Watch\Digial Watch\bin\Debug\Digial Watch.pdb
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\02- Digital Watch\Digial Watch\obj\Debug\Digial Watch.csproj.AssemblyReference.cache
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\02- Digital Watch\Digial Watch\obj\Debug\Digial Watch.csproj.SuggestedBindingRedirects.cache
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\02- Digital Watch\Digial Watch\obj\Debug\Digial_Watch.Form1.resources
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\02- Digital Watch\Digial Watch\obj\Debug\Digial_Watch.Properties.Resources.resources
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\02- Digital Watch\Digial Watch\obj\Debug\Digial Watch.csproj.GenerateResource.cache
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\02- Digital Watch\Digial Watch\obj\Debug\Digial Watch.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\02- Digital Watch\Digial Watch\obj\Debug\Digial Watch.exe
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\02- Digital Watch\Digial Watch\obj\Debug\Digial Watch.pdb
+C:\Users\HELLO\Downloads\minus_b_payload\02- Digital Watch\Digial Watch\bin\Debug\Digial Watch.exe.config
+C:\Users\HELLO\Downloads\minus_b_payload\02- Digital Watch\Digial Watch\bin\Debug\Digial Watch.exe
+C:\Users\HELLO\Downloads\minus_b_payload\02- Digital Watch\Digial Watch\bin\Debug\Digial Watch.pdb
+C:\Users\HELLO\Downloads\minus_b_payload\02- Digital Watch\Digial Watch\obj\Debug\Digial Watch.csproj.AssemblyReference.cache
+C:\Users\HELLO\Downloads\minus_b_payload\02- Digital Watch\Digial Watch\obj\Debug\Digial Watch.csproj.SuggestedBindingRedirects.cache
+C:\Users\HELLO\Downloads\minus_b_payload\02- Digital Watch\Digial Watch\obj\Debug\Digial_Watch.Form1.resources
+C:\Users\HELLO\Downloads\minus_b_payload\02- Digital Watch\Digial Watch\obj\Debug\Digial_Watch.Properties.Resources.resources
+C:\Users\HELLO\Downloads\minus_b_payload\02- Digital Watch\Digial Watch\obj\Debug\Digial Watch.csproj.GenerateResource.cache
+C:\Users\HELLO\Downloads\minus_b_payload\02- Digital Watch\Digial Watch\obj\Debug\Digial Watch.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\Downloads\minus_b_payload\02- Digital Watch\Digial Watch\obj\Debug\Digial Watch.exe
+C:\Users\HELLO\Downloads\minus_b_payload\02- Digital Watch\Digial Watch\obj\Debug\Digial Watch.pdb
