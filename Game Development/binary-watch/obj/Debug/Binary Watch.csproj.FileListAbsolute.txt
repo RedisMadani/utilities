@@ -1,0 +1,28 @@
+E:\Studying programs\project\Database C#\Binary Watch\Binary Watch\obj\Debug\Binary_Watch.Form1.resources
+E:\Studying programs\project\Database C#\Binary Watch\Binary Watch\obj\Debug\Binary_Watch.Properties.Resources.resources
+E:\Studying programs\project\Database C#\Binary Watch\Binary Watch\obj\Debug\Binary Watch.csproj.GenerateResource.Cache
+E:\Studying programs\project\Database C#\Binary Watch\Binary Watch\bin\Debug\Binary Watch.exe.config
+E:\Studying programs\project\Database C#\Binary Watch\Binary Watch\bin\Debug\Binary Watch.exe
+E:\Studying programs\project\Database C#\Binary Watch\Binary Watch\bin\Debug\Binary Watch.pdb
+E:\Studying programs\project\Database C#\Binary Watch\Binary Watch\obj\Debug\Binary Watch.exe
+E:\Studying programs\project\Database C#\Binary Watch\Binary Watch\obj\Debug\Binary Watch.pdb
+E:\Studying programs\project\Big Projects\Binary Watch\Binary Watch\obj\Debug\Binary_Watch.Form1.resources
+E:\Studying programs\project\Big Projects\Binary Watch\Binary Watch\obj\Debug\Binary_Watch.Properties.Resources.resources
+E:\Studying programs\project\Big Projects\Binary Watch\Binary Watch\obj\Debug\Binary Watch.csproj.GenerateResource.Cache
+E:\Studying programs\project\Big Projects\Binary Watch\Binary Watch\bin\Debug\Binary Watch.exe.config
+E:\Studying programs\project\Big Projects\Binary Watch\Binary Watch\bin\Debug\Binary Watch.exe
+E:\Studying programs\project\Big Projects\Binary Watch\Binary Watch\bin\Debug\Binary Watch.pdb
+E:\Studying programs\project\Big Projects\Binary Watch\Binary Watch\obj\Debug\Binary Watch.exe
+E:\Studying programs\project\Big Projects\Binary Watch\Binary Watch\obj\Debug\Binary Watch.pdb
+E:\Studying programs\project\Big Projects\Binary Watch\Binary Watch\obj\Debug\Binary Watch.csprojResolveAssemblyReference.cache
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\03- Binary Watch\Binary Watch\bin\Debug\Binary Watch.exe.config
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\03- Binary Watch\Binary Watch\bin\Debug\Binary Watch.exe
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\03- Binary Watch\Binary Watch\bin\Debug\Binary Watch.pdb
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\03- Binary Watch\Binary Watch\obj\Debug\Binary Watch.csproj.AssemblyReference.cache
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\03- Binary Watch\Binary Watch\obj\Debug\Binary Watch.csproj.SuggestedBindingRedirects.cache
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\03- Binary Watch\Binary Watch\obj\Debug\Binary_Watch.Form1.resources
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\03- Binary Watch\Binary Watch\obj\Debug\Binary_Watch.Properties.Resources.resources
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\03- Binary Watch\Binary Watch\obj\Debug\Binary Watch.csproj.GenerateResource.cache
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\03- Binary Watch\Binary Watch\obj\Debug\Binary Watch.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\03- Binary Watch\Binary Watch\obj\Debug\Binary Watch.exe
+C:\Users\HELLO\Downloads\Projects-master\C# Projects\03- Binary Watch\Binary Watch\obj\Debug\Binary Watch.pdb
